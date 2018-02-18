@@ -1,0 +1,23 @@
+{
+  "name": "creative_space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlecSands/creative_space.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlecSands/creative_space/issues"
+  },
+  "homepage": "https://github.com/AlecSands/creative_space#readme",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "d3.js": "0.0.2-security"
+  }
+}
